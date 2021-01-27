@@ -4,3 +4,5 @@ ios/RCTAes.xcodeproj/project.xcworkspace/*
 android/.idea/*
 android/.gradle/*
 android/build/*
+
+.idea
